@@ -1,0 +1,5 @@
+com\bitswilp\group26\hirarchy\bl\ProductBO.class
+com\bitswilp\group26\hirarchy\service\ProductController.class
+com\bitswilp\group26\hirarchy\ProductHirarchyApplication.class
+com\bitswilp\group26\hirarchy\dao\ProductRepo.class
+com\bitswilp\group26\hirarchy\to\Product.class
